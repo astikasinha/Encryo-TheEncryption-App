@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250684178712",
+    "project_id": "astikasencryptdecrypt",
+    "storage_bucket": "astikasencryptdecrypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250684178712:android:58cd2fd63337c528e51e6d",
+        "android_client_info": {
+          "package_name": "com.example.astikasencryptdecrypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRzV-sThHvVYPiraXowNrvz6DLV5VtsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
